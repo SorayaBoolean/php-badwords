@@ -12,7 +12,7 @@
         <label for="name">Inserisci Nome</label>
         <input type="text" name="name" placeholder="inserisci qui">
         
-        <label for="name">Inserisci Nome</label>
+        <label for="name">Inserisci Cognome</label>
         <input type="text" name="lastname" placeholder="inserisci qui">
         
         <button type="submit">Invia dati</button>
